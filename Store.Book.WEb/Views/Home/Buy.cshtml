@@ -1,0 +1,28 @@
+﻿@model Store.Book.Model.DAO.Order
+@{
+    ViewBag.Title = "Home Page";
+
+}
+
+@if (string.IsNullOrWhiteSpace(ViewBag.Message))
+{
+    <code>@ViewBag.Message</code>
+}
+else if (Model is null)
+{
+    <code>Возникла ошибка, модели нет </code>
+}
+else
+{
+    <div class=" = " row>
+        <p>@Model.Id</p>
+        <p>@Model.UserName</p>
+        <p>@Model.Total</p>
+        <p>@Model.Status</p>
+        <p>@Model.Created</p>
+
+    </div>
+}
+
+
+

@@ -1,0 +1,210 @@
+2021-09-06 19:52:24.9939|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-06 20:03:31.3723|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-06 20:03:35.3742|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-06 20:04:18.7204|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-06 20:04:35.4155|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-06 20:04:40.1403|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-06 20:04:40.6022|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-06 20:04:40.9292|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-06 20:04:42.5825|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-06 20:05:06.4124|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-06 20:06:36.1703|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-06 20:06:41.3524|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-06 20:06:42.8155|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-06 20:06:49.1282|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-06 20:09:16.3951|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-06 20:10:08.4031|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-06 20:10:21.0041|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-06 20:10:21.8873|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-06 20:10:22.0422|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-06 20:10:22.6015|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-06 20:10:22.7836|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-06 20:13:28.6375|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-07 19:11:59.4931|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-07 19:12:45.6892|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-07 19:12:46.1471|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-07 19:12:46.6937|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-07 19:12:50.1203|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-07 19:12:50.7451|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-07 19:12:51.3053|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-07 19:12:51.5754|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-07 19:12:59.0314|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-07 21:57:40.5503|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-08 21:18:38.9317|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-08 21:20:52.8315|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-08 21:22:36.5658|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-08 21:22:42.8934|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 1
+2021-09-08 21:22:42.9469|WARN|Store.Book.WEb.Services.StoreService|GetLastPrice price value not found by bookId: 1
+2021-09-08 21:22:42.9469|WARN|Store.Book.WEb.Services.StoreService|CreateOrder: lastPrice not found for bookId: 1
+2021-09-08 21:22:56.4640|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-08 21:23:03.3529|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 1
+2021-09-08 21:23:03.4232|WARN|Store.Book.WEb.Services.StoreService|GetLastPrice price value not found by bookId: 1
+2021-09-08 21:23:03.4232|WARN|Store.Book.WEb.Services.StoreService|CreateOrder: lastPrice not found for bookId: 1
+2021-09-08 21:28:17.7862|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-08 21:28:21.1598|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 2
+2021-09-08 21:28:21.2817|WARN|Store.Book.WEb.Services.StoreService|GetLastPrice price value not found by bookId: 2
+2021-09-08 21:28:21.2817|WARN|Store.Book.WEb.Services.StoreService|CreateOrder: lastPrice not found for bookId: 2
+2021-09-08 21:35:24.7343|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-08 21:35:31.9918|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 1
+2021-09-08 21:35:32.1593|WARN|Store.Book.WEb.Services.StoreService|GetLastPrice price value not found by bookId: 1
+2021-09-08 21:35:32.1593|WARN|Store.Book.WEb.Services.StoreService|CreateOrder: lastPrice not found for bookId: 1
+2021-09-08 21:45:07.8197|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-08 21:45:36.3073|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 1
+2021-09-08 21:45:36.3253|WARN|Store.Book.WEb.Services.StoreService|GetLastPrice price value not found by bookId: 1
+2021-09-08 21:45:36.3253|WARN|Store.Book.WEb.Services.StoreService|CreateOrder: lastPrice not found for bookId: 1
+2021-09-08 21:53:14.2176|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-08 21:53:17.6549|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 1
+2021-09-08 21:53:17.8298|WARN|Store.Book.WEb.Services.StoreService|GetLastPrice price value not found by bookId: 1
+2021-09-08 21:53:17.8298|WARN|Store.Book.WEb.Services.StoreService|CreateOrder: lastPrice not found for bookId: 1
+2021-09-08 21:56:40.2734|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-08 21:56:44.1157|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 1
+2021-09-08 21:56:44.3069|WARN|Store.Book.WEb.Services.StoreService|GetLastPrice price value not found by bookId: 1
+2021-09-08 21:56:44.3069|WARN|Store.Book.WEb.Services.StoreService|CreateOrder: lastPrice not found for bookId: 1
+2021-09-08 22:01:09.5113|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-08 22:01:16.2718|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 1
+2021-09-08 22:01:16.3485|WARN|Store.Book.WEb.Services.StoreService|GetLastPrice price value not found by bookId: 1
+2021-09-08 22:01:16.3485|WARN|Store.Book.WEb.Services.StoreService|CreateOrder: lastPrice not found for bookId: 1
+2021-09-09 14:56:07.2157|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 14:56:12.4554|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 1
+2021-09-09 14:56:12.5131|WARN|Store.Book.WEb.Services.StoreService|GetLastPrice price value not found by bookId: 1
+2021-09-09 14:56:12.5131|WARN|Store.Book.WEb.Services.StoreService|CreateOrder: lastPrice not found for bookId: 1
+2021-09-09 19:03:08.5277|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 19:03:53.5341|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 1
+2021-09-09 19:03:53.6089|WARN|Store.Book.WEb.Services.StoreService|GetLastPrice price value not found by bookId: 1
+2021-09-09 19:03:53.6094|WARN|Store.Book.WEb.Services.StoreService|CreateOrder: lastPrice not found for bookId: 1
+2021-09-09 19:05:20.5729|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 19:05:29.0434|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 1
+2021-09-09 19:05:29.1770|WARN|Store.Book.WEb.Services.StoreService|GetLastPrice price value not found by bookId: 1
+2021-09-09 19:05:29.1770|WARN|Store.Book.WEb.Services.StoreService|CreateOrder: lastPrice not found for bookId: 1
+2021-09-09 19:06:20.4748|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 1
+2021-09-09 19:06:20.5047|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice price value: 100,00 by bookId: 1
+2021-09-09 19:06:20.5718|WARN|Store.Book.WEb.Services.StoreService|CreateOrder: last order for user: farabin2@gmail.com not found, creating new.
+2021-09-09 19:06:59.8114|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 19:07:04.9365|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 1
+2021-09-09 19:07:05.0383|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice price value: 100,00 by bookId: 1
+2021-09-09 19:07:05.3138|WARN|Store.Book.WEb.Services.StoreService|AddToBusket: bookId: 1 exist in busket
+2021-09-09 19:07:15.3890|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 2
+2021-09-09 19:07:15.3921|WARN|Store.Book.WEb.Services.StoreService|GetLastPrice price value not found by bookId: 2
+2021-09-09 19:07:15.3921|WARN|Store.Book.WEb.Services.StoreService|CreateOrder: lastPrice not found for bookId: 2
+2021-09-09 19:07:44.0532|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 2
+2021-09-09 19:07:44.0532|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice price value: 150,00 by bookId: 2
+2021-09-09 19:07:46.0927|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 3
+2021-09-09 19:07:46.0957|WARN|Store.Book.WEb.Services.StoreService|GetLastPrice price value not found by bookId: 3
+2021-09-09 19:07:46.0957|WARN|Store.Book.WEb.Services.StoreService|CreateOrder: lastPrice not found for bookId: 3
+2021-09-09 19:08:11.0911|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 19:08:15.1277|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 3
+2021-09-09 19:08:15.2005|WARN|Store.Book.WEb.Services.StoreService|GetLastPrice price value not found by bookId: 3
+2021-09-09 19:08:15.2005|WARN|Store.Book.WEb.Services.StoreService|CreateOrder: lastPrice not found for bookId: 3
+2021-09-09 19:09:11.2704|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 19:09:15.3727|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 1
+2021-09-09 19:09:15.4783|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice price value: 100,00 by bookId: 1
+2021-09-09 19:10:00.7037|WARN|Store.Book.WEb.Services.StoreService|AddToBusket: bookId: 1 exist in busket
+2021-09-09 19:10:17.6039|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 19:10:22.3679|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 1
+2021-09-09 19:10:22.4756|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice price value: 100,00 by bookId: 1
+2021-09-09 19:36:12.9704|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 19:37:52.0758|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 19:37:59.7828|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 4
+2021-09-09 19:37:59.8319|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice price value: 100,00 by bookId: 4
+2021-09-09 19:38:10.1219|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 19:38:32.4048|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 5
+2021-09-09 19:38:32.4097|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice price value: 150,00 by bookId: 5
+2021-09-09 19:44:39.9201|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 19:44:46.0686|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 4
+2021-09-09 19:44:46.1763|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice price value: 100,00 by bookId: 4
+2021-09-09 19:44:46.3221|WARN|Store.Book.WEb.Services.StoreService|AddToBusket: bookId: 4 exist in busket
+2021-09-09 19:46:55.9516|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 4
+2021-09-09 19:46:55.9556|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice price value: 100,00 by bookId: 4
+2021-09-09 19:46:56.0100|WARN|Store.Book.WEb.Services.StoreService|AddToBusket: bookId: 4 exist in busket
+2021-09-09 19:47:30.2595|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 19:48:03.3924|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 4
+2021-09-09 19:48:03.4971|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice price value: 100,00 by bookId: 4
+2021-09-09 19:48:03.5540|WARN|Store.Book.WEb.Services.StoreService|AddToBusket: bookId: 4 exist in busket
+2021-09-09 19:49:18.1095|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 19:49:28.5566|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 4
+2021-09-09 19:49:28.8126|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice price value: 100,00 by bookId: 4
+2021-09-09 19:49:28.8654|WARN|Store.Book.WEb.Services.StoreService|AddToBusket: bookId: 4 exist in busket
+2021-09-09 19:50:30.5256|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 19:52:52.1691|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 19:54:27.7131|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 19:55:13.3510|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 19:55:15.2342|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 4
+2021-09-09 19:55:15.4244|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice price value: 100,00 by bookId: 4
+2021-09-09 19:55:15.4742|WARN|Store.Book.WEb.Services.StoreService|AddToBusket: bookId: 4 exist in busket
+2021-09-09 20:02:20.3434|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 20:03:03.3007|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 20:19:34.8483|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 20:20:18.6815|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 20:22:28.9500|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 20:41:03.0292|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 20:41:47.6926|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 20:43:56.4297|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 20:44:03.8356|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 6
+2021-09-09 20:44:03.9124|WARN|Store.Book.WEb.Services.StoreService|GetLastPrice price value not found by bookId: 6
+2021-09-09 20:44:03.9124|WARN|Store.Book.WEb.Services.StoreService|CreateOrder: lastPrice not found for bookId: 6
+2021-09-09 20:44:44.1834|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 20:46:07.3204|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 4
+2021-09-09 20:46:07.4306|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice price value: 100,00 by bookId: 4
+2021-09-09 20:46:07.4785|WARN|Store.Book.WEb.Services.StoreService|AddToBusket: bookId: 4 exist in busket
+2021-09-09 20:46:11.3758|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 6
+2021-09-09 20:46:11.3758|WARN|Store.Book.WEb.Services.StoreService|GetLastPrice price value not found by bookId: 6
+2021-09-09 20:46:11.3758|WARN|Store.Book.WEb.Services.StoreService|CreateOrder: lastPrice not found for bookId: 6
+2021-09-09 20:46:41.8081|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 5
+2021-09-09 20:46:41.8121|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice price value: 150,00 by bookId: 5
+2021-09-09 20:46:41.8121|WARN|Store.Book.WEb.Services.StoreService|AddToBusket: bookId: 5 exist in busket
+2021-09-09 20:46:44.7536|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 4
+2021-09-09 20:46:44.7536|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice price value: 100,00 by bookId: 4
+2021-09-09 20:46:44.7536|WARN|Store.Book.WEb.Services.StoreService|AddToBusket: bookId: 4 exist in busket
+2021-09-09 20:46:49.6677|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 5
+2021-09-09 20:46:49.6677|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice price value: 150,00 by bookId: 5
+2021-09-09 20:46:49.6718|WARN|Store.Book.WEb.Services.StoreService|AddToBusket: bookId: 5 exist in busket
+2021-09-09 20:48:14.8758|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 20:48:18.6358|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 6
+2021-09-09 20:48:18.6358|WARN|Store.Book.WEb.Services.StoreService|GetLastPrice price value not found by bookId: 6
+2021-09-09 20:48:18.6358|WARN|Store.Book.WEb.Services.StoreService|CreateOrder: lastPrice not found for bookId: 6
+2021-09-09 20:49:27.2502|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 20:56:37.0660|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 20:56:37.6749|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 20:56:42.1444|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 6
+2021-09-09 20:56:42.2292|WARN|Store.Book.WEb.Services.StoreService|GetLastPrice price value not found by bookId: 6
+2021-09-09 20:56:42.2292|WARN|Store.Book.WEb.Services.StoreService|CreateOrder: lastPrice not found for bookId: 6
+2021-09-09 20:57:09.8257|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 5
+2021-09-09 20:57:09.8576|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice price value: 150,00 by bookId: 5
+2021-09-09 20:57:09.9045|WARN|Store.Book.WEb.Services.StoreService|AddToBusket: bookId: 5 exist in busket
+2021-09-09 21:09:18.9888|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 21:10:16.8924|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 21:10:18.8734|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 1
+2021-09-09 21:10:19.0120|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice price value: 100,00 by bookId: 1
+2021-09-09 21:10:19.0320|WARN|Store.Book.WEb.Services.StoreService|CreateOrder: last order for user: farabin2@gmail.com not found, creating new.
+2021-09-09 21:10:20.9526|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 2
+2021-09-09 21:10:20.9566|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice price value: 150,00 by bookId: 2
+2021-09-09 21:10:22.8964|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 3
+2021-09-09 21:10:22.8964|WARN|Store.Book.WEb.Services.StoreService|GetLastPrice price value not found by bookId: 3
+2021-09-09 21:10:22.8964|WARN|Store.Book.WEb.Services.StoreService|CreateOrder: lastPrice not found for bookId: 3
+2021-09-09 21:11:16.8398|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 1
+2021-09-09 21:11:16.8398|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice price value: 100,00 by bookId: 1
+2021-09-09 21:11:16.8498|WARN|Store.Book.WEb.Services.StoreService|AddToBusket: bookId: 1 exist in busket
+2021-09-09 21:12:49.1098|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 1
+2021-09-09 21:12:49.1098|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice price value: 100,00 by bookId: 1
+2021-09-09 21:12:49.1263|WARN|Store.Book.WEb.Services.StoreService|AddToBusket: bookId: 1 exist in busket
+2021-09-09 21:12:55.4859|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 2
+2021-09-09 21:12:55.4859|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice price value: 150,00 by bookId: 2
+2021-09-09 21:12:55.4859|WARN|Store.Book.WEb.Services.StoreService|AddToBusket: bookId: 2 exist in busket
+2021-09-09 21:13:03.2457|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 3
+2021-09-09 21:13:03.2457|WARN|Store.Book.WEb.Services.StoreService|GetLastPrice price value not found by bookId: 3
+2021-09-09 21:13:03.2457|WARN|Store.Book.WEb.Services.StoreService|CreateOrder: lastPrice not found for bookId: 3
+2021-09-09 21:15:07.4705|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-09 21:15:13.4453|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 3
+2021-09-09 21:15:13.5241|WARN|Store.Book.WEb.Services.StoreService|GetLastPrice price value not found by bookId: 3
+2021-09-09 21:15:13.5241|WARN|Store.Book.WEb.Services.StoreService|CreateOrder: lastPrice not found for bookId: 3
+2021-09-09 21:15:37.2674|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 1
+2021-09-09 21:15:37.2974|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice price value: 100,00 by bookId: 1
+2021-09-09 21:15:37.3472|WARN|Store.Book.WEb.Services.StoreService|AddToBusket: bookId: 1 exist in busket
+2021-09-10 16:22:46.6156|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-10 16:43:47.5152|INFO|Store.Book.WEb.Controllers.HomeController|its index. OK
+2021-09-10 16:44:10.9610|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 2
+2021-09-10 16:44:11.0689|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice price value: 150,00 by bookId: 2
+2021-09-10 16:44:11.0919|WARN|Store.Book.WEb.Services.StoreService|CreateOrder: last order for user:  not found, creating new.
+2021-09-10 16:44:13.8316|INFO|Store.Book.WEb.Services.StoreService|GetLastPrice get price by bookId: 3
+2021-09-10 16:44:13.8320|WARN|Store.Book.WEb.Services.StoreService|GetLastPrice price value not found by bookId: 3
+2021-09-10 16:44:13.8320|WARN|Store.Book.WEb.Services.StoreService|CreateOrder: lastPrice not found for bookId: 3

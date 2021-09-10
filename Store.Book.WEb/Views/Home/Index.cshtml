@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Store.Book.Model.Book>
+@{
+    ViewBag.Title = "Home Page";
+}
+<h5>ПОИСК КНИГ</h5>
+<div>
+    <input type="text" id="title" name="title"/>
+    <input type="submit" id="search" value="Поиск"/>
+    <div id="results"></div>
+</div>
+@foreach (var book in Model)
+{
+    <p>@book.Title</p>
+    <p>@book.Year</p>
+    <p>@Html.ActionLink("Купить","Buy" ,new {Id = book.Id })</p>
+    <hr />
+}
+@section scripts{
+    <script>
+        $(document).ready(function () {
+            $('#search').click(function () {
+                var title = $('#title').val();
+                var url = "/Home/BookSearch?title=" + title;
+                $.get(url, null, function (books) {
+                    var items = '<table><tr><th>Title</th><th>Year</th></tr>';
+                    $.each(books, function (i, book) {
+                        items += "<tr><td><a href=\"/home/buy" + book.Title+"</td>          <td>"+ book.Year +"</td></tr>"
+                    });
+                    items += "</table>";
+                    $("#results").html(items);
+
+                })
+            })
+            var url = "/Home/WHAT";
+            var name = $("#name_id").val();
+            var address = $("#address_id").val();
+            var params = { name: name, Address: address };
+            $.post(url, params, function (data) {
+                $("#msg").html(data);
+            })
+        })
+    </script>
+    }  
